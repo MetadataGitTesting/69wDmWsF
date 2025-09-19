@@ -1,0 +1,58 @@
+name: rosemarie.konopelski
+description: multi-tasking
+version: 1.9.2.717
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: rosemariekonopelski
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-09-19 23:31:12'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-09-19 23:31:12'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-09-19T23:31:12.874195Z'
+  name: plibMaven
+  version: 8.14.0-SNAPSHOT
+  id: '438560944'
+  createdAt: '2025-09-19T23:31:12.874195Z'
+  type: plibMaven
+projectDependencies:
+  '201':
+    projectUID: 201
+    projectName: felipe.gottlieb
+    repositoryPath: gitUri=http://gitserver:3000/dev_l10JuWaO_team_335/dev_l10JuWaO_project_201.git&subPath=
+    version: felipe.gottlieb/8.7.2.723
+    isDefault: false
+    author: null
+    createdAt: '2025-09-19 23:31:09'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
